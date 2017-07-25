@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on RGCC 更新敎會 知恩堂</title>
-    <link>http://gracerccc.github.io/bookshelf/post/</link>
+    <link>https://dkliu1.github.io/rgcc/post/</link>
     <description>Recent content in Posts on RGCC 更新敎會 知恩堂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-usb</language>
     <lastBuildDate>Tue, 25 Jul 2017 23:17:30 +1000</lastBuildDate>
     
-	<atom:link href="http://gracerccc.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkliu1.github.io/rgcc/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Good To Great</title>
-      <link>http://gracerccc.github.io/bookshelf/post/good-to-great/</link>
+      <link>https://dkliu1.github.io/rgcc/post/good-to-great/</link>
       <pubDate>Tue, 25 Jul 2017 23:17:30 +1000</pubDate>
       
-      <guid>http://gracerccc.github.io/bookshelf/post/good-to-great/</guid>
+      <guid>https://dkliu1.github.io/rgcc/post/good-to-great/</guid>
       <description>Title: Book review of ABC 中文內容</description>
     </item>
     
